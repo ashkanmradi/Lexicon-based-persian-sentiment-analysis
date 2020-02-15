@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2e390a0-f43e-4492-b36a-ff70ea921a5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WvxAa7KWq1wPsz41PxkIA65eUK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+  </component>
+  <component name="RunManager" selected="Python.vectorize">
+    <configuration name="lexiPersTags" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sentiment_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lexiPersTags.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="normalize_lexicon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sentiment_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/normalize_lexicon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocessing_lexicon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sentiment_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocessing_lexicon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vectorize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sentiment_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vectorize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.lexiPersTags" />
+      <item itemvalue="Python.preprocessing_lexicon" />
+      <item itemvalue="Python.vectorize" />
+      <item itemvalue="Python.normalize_lexicon" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.vectorize" />
+        <item itemvalue="Python.normalize_lexicon" />
+        <item itemvalue="Python.lexiPersTags" />
+        <item itemvalue="Python.preprocessing_lexicon" />
+        <item itemvalue="Python.lexiPersTags" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2e390a0-f43e-4492-b36a-ff70ea921a5d" name="Default Changelist" comment="" />
+      <created>1580043726325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580043726325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="215" width="800" height="675" key="#Notifications" timestamp="1580071633177">
+      <screen x="63" y="27" width="1857" height="1053" />
+    </state>
+    <state x="586" y="215" width="800" height="675" key="#Notifications/63.27.1857.1053@63.27.1857.1053" timestamp="1580071633177" />
+    <state x="449" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580489615027">
+      <screen x="63" y="27" width="1857" height="1053" />
+    </state>
+    <state x="449" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/63.27.1857.1053@63.27.1857.1053" timestamp="1580489615027" />
+    <state x="665" y="172" width="642" height="759" key="#lexiPersTags" timestamp="1580225598489">
+      <screen x="63" y="27" width="1857" height="1053" />
+    </state>
+    <state x="665" y="172" width="642" height="759" key="#lexiPersTags/63.27.1857.1053@63.27.1857.1053" timestamp="1580225598489" />
+    <state x="665" y="171" width="642" height="762" key="#vectorize" timestamp="1581716186722">
+      <screen x="63" y="27" width="1857" height="1053" />
+    </state>
+    <state x="665" y="171" width="642" height="762" key="#vectorize/63.27.1857.1053@63.27.1857.1053" timestamp="1581716186722" />
+    <state width="1834" height="611" key="GridCell.Tab.0.bottom" timestamp="1581778369338">
+      <screen x="63" y="27" width="1857" height="1053" />
+    </state>
+    <state width="1834" height="611" key="GridCell.Tab.0.bottom/63.27.1857.1053@63.27.1857.1053" timestamp="1581778369338" />
+    <state width="1834" height="611" key="GridCell.Tab.0.center" timestamp="1581778369338">
+      <screen x="63" y="27" width="1857" height="1053" />
+    </state>
+    <state width="1834" height="611" key="GridCell.Tab.0.center/63.27.1857.1053@63.27.1857.1053" timestamp="1581778369338" />
+    <state width="1834" height="611" key="GridCell.Tab.0.left" timestamp="1581778369338">
+      <screen x="63" y="27" width="1857" height="1053" />
+    </state>
+    <state width="1834" height="611" key="GridCell.Tab.0.left/63.27.1857.1053@63.27.1857.1053" timestamp="1581778369338" />
+    <state width="1834" height="611" key="GridCell.Tab.0.right" timestamp="1581778369338">
+      <screen x="63" y="27" width="1857" height="1053" />
+    </state>
+    <state width="1834" height="611" key="GridCell.Tab.0.right/63.27.1857.1053@63.27.1857.1053" timestamp="1581778369338" />
+    <state width="1834" height="344" key="GridCell.Tab.1.bottom" timestamp="1581727559743">
+      <screen x="63" y="27" width="1857" height="1053" />
+    </state>
+    <state width="1834" height="344" key="GridCell.Tab.1.bottom/63.27.1857.1053@63.27.1857.1053" timestamp="1581727559743" />
+    <state width="1834" height="344" key="GridCell.Tab.1.center" timestamp="1581727559742">
+      <screen x="63" y="27" width="1857" height="1053" />
+    </state>
+    <state width="1834" height="344" key="GridCell.Tab.1.center/63.27.1857.1053@63.27.1857.1053" timestamp="1581727559742" />
+    <state width="1834" height="344" key="GridCell.Tab.1.left" timestamp="1581727559742">
+      <screen x="63" y="27" width="1857" height="1053" />
+    </state>
+    <state width="1834" height="344" key="GridCell.Tab.1.left/63.27.1857.1053@63.27.1857.1053" timestamp="1581727559742" />
+    <state width="1834" height="344" key="GridCell.Tab.1.right" timestamp="1581727559742">
+      <screen x="63" y="27" width="1857" height="1053" />
+    </state>
+    <state width="1834" height="344" key="GridCell.Tab.1.right/63.27.1857.1053@63.27.1857.1053" timestamp="1581727559742" />
+    <state x="480" y="188" key="SettingsEditor" timestamp="1580489904218">
+      <screen x="63" y="27" width="1857" height="1053" />
+    </state>
+    <state x="480" y="188" key="SettingsEditor/63.27.1857.1053@63.27.1857.1053" timestamp="1580489904218" />
+    <state width="928" height="526" key="XDebugger.FullValuePopup" timestamp="1580224418596">
+      <screen x="63" y="27" width="1857" height="1053" />
+    </state>
+    <state width="928" height="526" key="XDebugger.FullValuePopup/63.27.1857.1053@63.27.1857.1053" timestamp="1580224418596" />
+    <state x="654" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1581722329011">
+      <screen x="63" y="27" width="1857" height="1053" />
+    </state>
+    <state x="654" y="259" width="672" height="678" key="search.everywhere.popup/63.27.1857.1053@63.27.1857.1053" timestamp="1581722329011" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
